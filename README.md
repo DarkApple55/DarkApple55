@@ -11,6 +11,16 @@
   </tr>
 </table>
 
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <p>
+</div> 
+
 <!--
 **DarkApple55/DarkApple55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
