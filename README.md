@@ -22,7 +22,7 @@
     </p>
   </div>
   <div style="flex: 1;">
-    <h3> Discord :V </h3>
+    <h3> Discord 👍 </h3>
     <img src="https://lanyard.cnrad.dev/api/570000874773151759" height="200"/>
   </div>
 </div>
