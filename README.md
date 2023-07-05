@@ -1,4 +1,4 @@
-### me gusta programar 👍
+### Me gusta programar 👍
 
 <table>
   <tr>
@@ -12,7 +12,7 @@
 </table>
 
 <div>
-  <h3> 💻 Languages and Tools </h3>
+  <h3> 💻 Languages and Tools 🗿 </h3>
   <p>
     <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
