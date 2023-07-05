@@ -4,6 +4,7 @@
 | --- | --- |
 
 ### 💻 Languages and Tools 🗿
+
 <p>
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
@@ -12,4 +13,5 @@
 </p>
 
 ### Discord :V
-![Discord](https://lanyard.cnrad.dev/api/570000874773151759)
+
+<img src="https://lanyard.cnrad.dev/api/570000874773151759" height="200">
