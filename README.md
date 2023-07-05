@@ -11,15 +11,21 @@
   </tr>
 </table>
 
-<div>
-  <h3> 💻 Languages and Tools 🗿 </h3>
-  <p>
-    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-  <p>
-</div> 
+<div style="display: flex; width: 1000px;">
+  <div style="flex: 1;">
+    <h3> 💻 Languages and Tools 🗿 </h3>
+    <p>
+      <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+      <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+      <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <h3> Discord :V </h3>
+    <img src="https://lanyard.cnrad.dev/api/570000874773151759" height="200"/>
+  </div>
+</div>
 
 <!--
 
