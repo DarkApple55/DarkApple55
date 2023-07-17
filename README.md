@@ -1,5 +1,5 @@
 ### Me gusta programar 👍
-
+<!--
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -10,7 +10,7 @@
     </td>
   </tr>
 </table>
-
+-->
 <div style="display: flex; width: 1000px;">
   <div style="flex: 1;">
     <h3> 💻 Languages and Tools 🗿 </h3>
