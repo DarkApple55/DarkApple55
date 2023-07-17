@@ -13,7 +13,7 @@
 -->
 <div style="display: flex; width: 1000px;">
   <div style="flex: 1;">
-    <h3> 💻 Languages and Tools 🗿 </h3>
+    <!-- <h3> 💻 Languages and Tools 🗿 </h3> -->
     <p>
       <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
       <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
